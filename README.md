@@ -106,6 +106,16 @@ Digital clean-energy marketplace integrating **VPPAs, power derivatives, AI-driv
 
 ---
 
+## 📈 CodeChef Problem Solving
+
+<p align="center">
+  <a href="https://www.codechef.com/users/s31p10">
+    <img src="https://img.shields.io/badge/CodeChef-s31p10-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+--- 
+
 ## 📊 GitHub Stats
 
 <p align="center">
