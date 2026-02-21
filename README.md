@@ -42,11 +42,11 @@ I enjoy building **end-to-end solutions** that sit at the intersection of **tech
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-`Python` `SQL` `C` `C++` `Java` `HTML/CSS` `JavaScript`
+`Python` `SQL` `C` `C++` `Java` `HTML/CSS` `JavaScript` `Angular`
 
 ### 📚 Frameworks & Libraries
 `Scikit-learn` `NumPy` `Pandas` `SciPy` `Matplotlib` `Seaborn`  
-`React` `Next.js` `Tailwind CSS`
+`Next.js` `Tailwind CSS` `Nx`
 
 ### ⚙️ Tools & Platforms
 `Git & GitHub` `Jupyter Notebook` `Firebase` `Linux`
